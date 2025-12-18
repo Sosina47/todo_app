@@ -1,0 +1,42 @@
+[
+  {
+    "ID": 1,
+    "title": "do laundary",
+    "completion": "not completed"
+  },
+  {
+    "ID": 2,
+    "title": "do assignment",
+    "completion": "completed"
+  },
+  {
+    "ID": 3,
+    "title": "sleep sleep",
+    "completion": "completed"
+  },
+  {
+    "ID": 4,
+    "title": "be productive",
+    "completion": "completed"
+  },
+  {
+    "ID": 5,
+    "title": "new title",
+    "completion": "completed"
+  },
+  {
+    "ID": 6,
+    "title": "new title new",
+    "completion": "not completed"
+  },
+  {
+    "ID": 7,
+    "title": "idk do something",
+    "completion": "not completed"
+  },
+  {
+    "ID": 8,
+    "title": "title title",
+    "completion": "completed"
+  }
+]
